@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "486261653511",
+    "project_id": "unique-expense-manager-eeded",
+    "storage_bucket": "unique-expense-manager-eeded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486261653511:android:ceeeb205676db35a67eaa2",
+        "android_client_info": {
+          "package_name": "com.as.uem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486261653511-r141kq5jp6vjjpc8i9ejbdimhg2fvuho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.as.uem",
+            "certificate_hash": "93038faf744c9fce480cf55ddd05d92cc0219d5e"
+          }
+        },
+        {
+          "client_id": "486261653511-dpr2lf70s9kiqok046jcfka4kdf8aeat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvqMIPJgHWzZ3t0J-hE4L_bYQEnqN-Uf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486261653511-dpr2lf70s9kiqok046jcfka4kdf8aeat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
